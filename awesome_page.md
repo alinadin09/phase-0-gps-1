@@ -2,7 +2,7 @@
 
 ###This was our edit to the awesome_page file.
 
-* **This is our bold section.**
+* **This is naut our bold section.**
 * *This our italic section.*
 
 				code block
