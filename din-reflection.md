@@ -1,4 +1,4 @@
-** What Git concepts were you struggling with prior to the GPS session?**
+**What Git concepts were you struggling with prior to the GPS session?**
 
 *I struggled most with undoing a Git init on a subfolder! I worked with my teacher earlier this week to undo the mistake I made and I can't even remember the commands we used, but somehow it worked. **
 
@@ -12,7 +12,7 @@
 
 **What still confuses you about Git?**
 
-*Undoong a git init in a subfolder.
+*Undoing a git init in a subfolder.*
 
 **How was your first experience of pairing in a GPS?**
 
